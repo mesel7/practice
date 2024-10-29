@@ -1,2 +1,4 @@
 hello git1
-안녕 나는 남궁민이야.
+hello imminju
+hello min
+
